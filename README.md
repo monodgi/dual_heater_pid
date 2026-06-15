@@ -6,6 +6,5 @@ Prebuilt `.so` binaries for ARM64 + Python 3.9.
 ## Deploy
 
 ```bash
-cd ~/klipper/klippy/extras
 git clone https://github.com/monodgi/dual_heater_pid.git dual_heater_tmp
 bash dual_heater_tmp/install.sh
