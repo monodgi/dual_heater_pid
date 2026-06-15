@@ -3,6 +3,8 @@ The dual heater runs PID and auto-calibration on the klipper system
 
 Prebuilt `.so` binaries for ARM64 + Python 3.9.
 
+Only supports kickpi
+
 ## Deploy
 
 ```bash
